@@ -75,7 +75,7 @@ Ensure your hand is clearly visible with good lighting 💡.
 Close other apps using your camera or system resources.
 
 🔗 GitHub Link
-👉 temple_run_by_gestures on GitHub
+👉 [temple_run_by_gestures](https://github.com/archisha-codes/temple_run_by_gestures) on GitHub
 
 
 
