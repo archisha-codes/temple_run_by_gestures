@@ -36,7 +36,7 @@ Action Mapping ⌨️: PyAutoGUI triggers keypresses to control Temple Run!
 
 📦 Installation
 # Clone the repository
-git clone https://github.com/yourusername/TempleRun_GestureControl.git
+git clone [https://github.com/yourusername/TempleRun_GestureControl.git](https://github.com/archisha-codes/temple_run_by_gestures.git)
 cd TempleRun_GestureControl
 
 # Create a virtual environment (optional)
